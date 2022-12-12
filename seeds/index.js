@@ -35,11 +35,11 @@ const seedDb = async () => {
       },
       images: [
         {
-          url: "https://res.cloudinary.com/djkrqjcf6/image/upload/v1668833712/YelpCamp/h8qakkgdkl7sdmyqwgy5.jpg",
+          url: "https://res.cloudinary.com/djkrqjcf6/image/upload/v1670844744/YelpCamp/ejwru7qlbjyamee5leqa.jpg",
           filename: "YelpCamp/h8qakkgdkl7sdmyqwgy5",
         },
         {
-          url: "https://res.cloudinary.com/djkrqjcf6/image/upload/v1668833712/YelpCamp/pneuibln7wx04zzdz3rl.jpg",
+          url: "https://res.cloudinary.com/djkrqjcf6/image/upload/v1670844741/YelpCamp/v6q1whld6akqpfxj0vp0.jpg",
           filename: "YelpCamp/pneuibln7wx04zzdz3rl",
         },
       ],
